@@ -26,7 +26,7 @@
           <hr class="my-3">
           ดูโค้ดบน
           <a
-            href="https://nuxtjs.org/"
+            href="https://github.com/TouchySarun/insect_final"
             target="_blank"
             rel="noopener noreferrer"
           >
